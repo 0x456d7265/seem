@@ -13,6 +13,7 @@
             margin: 0;
             padding: 20px;
         }
+        
 
         .container {
             max-width: 800px;
@@ -87,46 +88,10 @@
 <body>
     <div class="container">
         <h1>Seem Menu Panel Versiyon Notları</h1>
-
-        <div class="version-block">
-            <div class="version-header">
-                <h2>Version 0.4.9.pre</h2>
-                <span class="version-date">25 Aralık 2024</span>
-            </div>
-            <ul class="update-list">
-                <li class="update-item">
-                    Kurulum ekranında masa eklerken, aynı isimde masa oluşmasına sebep olan bir hata giderildi.
-                </li>
-                <li class="update-item">
-                    4 yeni ürün kategorisi eklendi. (Kahvaltı, börek, salata, şarap)
-                </li>
-                <li class="update-item">
-                    Ayarlar sayfası oluşturuldu. (Uygulama, Firma Bilgileri, Masalar)
-                    <span class="tag feature">Yeni</span>
-                </li>
-                <li class="update-item">
-                    Side menü güncellendi.
-                </li>
-
-
-                <!-- Examples -->
-                <!-- <li class="update-item">
-                    Enhanced user interface with dark mode support
-                    <span class="tag feature">Yeni</span>
-                </li>
-                <li class="update-item">
-                    Fixed login authentication issues
-                    <span class="tag bugfix">Bugfix</span>
-                </li>
-                <li class="update-item">
-                    Improved performance for large data sets
-                    <span class="tag improvement">Geliştirme</span>
-                </li> -->
-            </ul>
+        <div id="changelog-container">
+            <!-- Changelog entries will be inserted here dynamically -->
         </div>
-
-
-
     </div>
+    <script src="changelog.js"></script>
 </body>
 </html>

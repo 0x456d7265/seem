@@ -1,0 +1,20 @@
+{
+    "version": "0.4.9.pre",
+    "date": "25 Aralık 2024",
+    "updates": [
+        {
+            "text": "Kurulum ekranında masa eklerken, aynı isimde masa oluşmasına sebep olan bir hata giderildi.",
+            "type": "bugfix"
+        },
+        {
+            "text": "4 yeni ürün kategorisi eklendi. (Kahvaltı, börek, salata, şarap)"
+        },
+        {
+            "text": "Ayarlar sayfası oluşturuldu. (Uygulama, Firma Bilgileri, Masalar)",
+            "type": "feature"
+        },
+        {
+            "text": "Side menü güncellendi."
+        }
+    ]
+} 
