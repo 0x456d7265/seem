@@ -1,0 +1,19 @@
+{
+    "version": "0.4.13.pre",
+    "date": "27 Aralık 2024",
+    "updates": [
+        {
+            "text": "İstatistikler sayfasında, mevcut günde sipariş yoksa ekranın boş gelmesine sebep olan bir hata giderildi.",
+            "type": "bugfix"
+        },
+        {
+            "text": "Ürün Ayarları sayfası aktif edildi."
+        },
+        {
+            "text": "Masa Ayarları sayfası aktif edildi."
+        },
+        {
+            "text": "Varsayılan tema, sistem varsayılanı yerine açık tema olarak değiştirildi."
+        }
+    ]
+} 
