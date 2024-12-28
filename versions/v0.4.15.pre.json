@@ -1,0 +1,11 @@
+{
+    "version": "0.4.15.pre",
+    "date": "28 Aralık 2024",
+    "updates": [
+        {
+            "text": "Personel sayfası oluşturuldu.",
+            "type": "feature"
+        }
+
+    ]
+} 
