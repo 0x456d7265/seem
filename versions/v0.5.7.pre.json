@@ -1,0 +1,27 @@
+{
+    "version": "0.5.7.pre",
+    "date": "29 Aralık 2024",
+    "updates": [
+        {
+            "text": "Personel yetkilerini düzenleme seçeneği eklendi.",
+            "type": "feature"
+        },
+        {
+            "text": "Personel ekranında ufak UI düzeltmeleri yapıldı."
+        },
+        {
+            "text": "Personel oluşturma etkinleştirildi."
+        },
+        {
+            "text": "Giriş ekranı personel hesaplarıyla da giriş yapılabilmesi için güncellendi."
+        },
+        {
+            "text": "Yetkiler için 19 yeni flag eklendi. (NYI)",
+            "type": "feature"
+        },
+        {
+            "text": "Bazı flagler daha sonraki versiyonlarda aktif hale getirilecektir. [UPDATE_ORDERS, CANCEL_ORDERS, COMPLETE_ORDERS, EDIT_STAFF_PASSWORD, EDIT_MENU_DESIGN]"
+        }
+
+    ]
+} 
