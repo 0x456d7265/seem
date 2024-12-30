@@ -1,7 +1,7 @@
 // Fetch the index of version files
 async function fetchVersionsIndex() {
     try {
-        const response = await fetch('versions-index.json');
+        const response = await fetch('panel_version_indexs.json');
         if (!response.ok) throw new Error('Failed to load versions index');
         const data = await response.json();
         return data.versionFiles;
@@ -14,7 +14,7 @@ async function fetchVersionsIndex() {
 // Fetch a specific version file
 async function fetchVersionData(filename) {
     try {
-        const response = await fetch(`versions/${filename}`);
+        const response = await fetch(`panel_versions/${filename}`);
         if (!response.ok) throw new Error(`Failed to load version file: ${filename}`);
         return await response.json();
     } catch (error) {

@@ -1,0 +1,18 @@
+{
+    "version": "0.3.21.pre",
+    "date": "30 Aralık 2024",
+    "updates": [
+        {
+            "text": "Yeni eklenen ürünlerin, anasayfada çökmelere yol açmasıyla ilgili bir hata giderildi.",
+            "type": "bugfix"
+        },
+        {
+            "text": "Hızlı sipariş seçeneği kullanıldığında, ana sayfaya geri dönülememesine yol açan bir hata giderildi.",
+            "type": "bugfix"
+        },
+        {
+            "text": "Sipariş tamamlandıktan sonra, sepetteki ürünlerin silinmemesi sorunu giderildi.",
+            "type": "bugfix"
+        }
+    ]
+} 
