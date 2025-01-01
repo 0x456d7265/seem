@@ -1,0 +1,50 @@
+{
+    "version": "0.6.13.pre",
+    "date": "1 Ocak 2025",
+    "updates": [
+        {
+            "text": "Sipariş oluşturma özelliği eklendi.",
+            "type": "feature"
+        },
+        {
+            "text": "Restoran domaini eklendi. (Artık personel hesapları oluşturulurken, restoran domaini kullanılıyor.)",
+            "type": "feature"
+        },
+        {
+            "text": "Yeni eklenen ürün fotoğraflarının müşteri uygulamasında gözükmemesi sorunu giderildi.",
+            "type": "bugfix"
+        },
+        {
+            "text": "Siparişler ekranına, sipariş durumlarını güncelleyebilmek için swipe özelliği eklendi.",
+            "type": "feature"
+        },
+        {
+            "text": "Siparişlerde son güncelleme zamanını gösteren alan güncellendi."
+        },
+        {
+            "text": "Sipariş iptali için, iptal sebebi girme zorunluluğu getirildi."
+        },
+        {
+            "text": "3 Yetki flagi aktif edildi. [UPDATE_ORDERS, CANCEL_ORDERS, COMPLETE_ORDERS]"
+        },
+        {
+            "text": "Yeni bir personel rolü eklendi. (Kasiyer)",
+            "type": "feature"
+        },
+        {
+            "text": "Artık personel oluştururken, seçilen role göre önceden atanmış yetkiler ekleniyor."
+        },
+        {
+            "text": "Ciro grafiğine geçen hafta verisi eklendi."
+        },
+        {
+            "text": "Sipariş ve iptal sayısı grafiklerine geçen hafta verisi eklendi."
+        },
+        {
+            "text": "Ürünler ve Kategoriler grafiklerine geçen hafta verisi eklendi."
+        },
+        {
+            "text": "Ürünler ve Kategoriler grafiklerine gün seçim butonları eklendi."
+        }
+    ]
+} 
